@@ -8,4 +8,4 @@
 | Code        | Code        |
 
 
-<object data="kurumi.jpg" type="application/pdf" width="1000px" height="800px"></object>
+<img src="kurumi.jpg" alt="Italian Trulli">
