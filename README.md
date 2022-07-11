@@ -8,4 +8,4 @@
 | Code        | Code        |
 
 
-<object data="database/image/kurumi.png" type="application/pdf" width="1000px" height="800px"></object>
+<object data="kurumi.jpg" type="application/pdf" width="1000px" height="800px"></object>
